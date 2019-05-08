@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#1002
 
 raio = float(input())
 
